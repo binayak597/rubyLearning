@@ -6,4 +6,5 @@ puts ("his name is " + character_name)
 puts ("his hobby is " + his_hobby)
 puts ("his friend name is " + friend)
 
-# in ruby, standard convention for creating varibles is like if your varible name contains more than one word then you can use underscore in between them
+# ruby uses snake_case for naming convention
+# variable name should always start with lowercase character(a-z) or a underscore(_)
