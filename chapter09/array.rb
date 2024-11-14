@@ -4,6 +4,11 @@ a = Array["Ram", "Binayak", "Harry", "Nana"]
 
 # it also supports negative indexing
 
+#initialze an empty array->
+b = Array.new
+
+puts b # print an empty array 
+
 
 puts a[-2] # print -> "harry"
 
