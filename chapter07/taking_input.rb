@@ -25,7 +25,7 @@ age = gets.chomp()
 
 # by default gets will take the input from the user in string format so we need to typecast it
 
-puts ("your age is " + age.to_s)
+puts ("your age is " + age)
 
 # output -> your age is <age>
 
